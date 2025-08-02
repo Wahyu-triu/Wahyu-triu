@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wahyu-triu
-- 👀 I’m interested in Data Science and Machine Learning Field
-- 🌱 I’m currently learning IYKRA Data Science Fellow
-- 📫 How to reach me email wahyutri66773@gmail.com
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently work as a Data Analyst
+- 📫 How to reach me email utomo.wahyut@gmail.com
 
 <!---
 Wahyu-triu/Wahyu-triu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

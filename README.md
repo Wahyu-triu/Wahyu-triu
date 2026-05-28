@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wahyu-triu
 - 👀 Interested in AI and Automation
-- 🌱 Currently work as a Data Scientist
+- 🌱 More about me: https://wahyu-tri-utomo-portfolio.vercel.app/ 
 - 📫 How to reach me: email utomo.wahyut@gmail.com
 
 <!---
